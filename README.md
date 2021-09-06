@@ -13,6 +13,6 @@ This Program can be run on 32-bit computer architecture like DOS (Or using [DOSB
 -	**Interrupt 9** - when the ESC key is pressed, the program is finish.
 
   
-![](image_01.png)
+![](https://github.com/NadavShwartz93/Interrupt/blob/main/Interrupt.gif)
 >Program in run mode.
 <br />
